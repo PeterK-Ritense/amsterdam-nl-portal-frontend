@@ -1,7 +1,7 @@
-window.KEYCLOAK_URL = '';
-window.KEYCLOAK_REALM = '';
-window.KEYCLOAK_CLIENT_ID = '';
-window.KEYCLOAK_REDIRECT_URI = '';
+window.KEYCLOAK_URL = 'http://localhost:8082/auth/';
+window.KEYCLOAK_REALM = 'master';
+window.KEYCLOAK_CLIENT_ID = 'gzac-portal';
+window.KEYCLOAK_REDIRECT_URI = 'http://localhost:3000/keycloak/callback/';
 window.GRAPHQL_URI = '';
 window.REST_URI = '';
 window.OPEN_FORMS_BASE_URL = '';

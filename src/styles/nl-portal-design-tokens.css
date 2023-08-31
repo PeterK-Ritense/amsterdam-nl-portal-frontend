@@ -1,4 +1,6 @@
 :root {
+  --amsterdam-primary-color: #ec0003;
+  --amsterdam-secondary-color: #004699;
   --nlportal-space-block-5xl: var(--denhaag-space-block-5xl);
   --nlportal-space-block-4xl: var(--denhaag-space-block-4xl);
   --nlportal-space-block-3xl: var(--denhaag-space-block-3xl);
@@ -19,9 +21,9 @@
   --nlportal-z-index-menu: 200;
   --nlportal-max-page-width: 1024px;
   --nlportal-header-height: 72px;
-  --nlportal-header-height-large: 85px;
+  --nlportal-header-height-large: 90px;
   --nlportal-header-height-fullscreen-tablet: 128px;
-  --nlportal-header-max-logo-width: 150px;
+  --nlportal-header-max-logo-width: 450px;
   --nlportal-header-max-logo-width-fullscreen: 186px;
   --nlportal-header-logo-margin-fullscreen: 38px;
   --nlportal-header-logo-margin-fullscreen-tablet: 116px;
